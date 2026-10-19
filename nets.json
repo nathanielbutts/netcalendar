@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "nets": [
+    {
+      "id": "KY Emergency Net",
+      "name": "KY Emergency Net",
+      "frequency": "3.9725",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "23:30",
+      "durationMinutes": 30,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          1
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "Glasgow Net",
+      "name": "Glasgow KY4X",
+      "frequency": "146.940",
+      "mode": "FM",
+      "notes": "PL 114.8",
+      "startUtc": "01:00",
+      "durationMinutes": 30,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-e546adfe-b1d5-4db3-9675-d335d8acfca3",
+      "name": "Cane Valley Net",
+      "frequency": "146.640-",
+      "mode": "FM",
+      "notes": "PL 107.2",
+      "startUtc": "01:30",
+      "durationMinutes": 30,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-0655fb70-829f-4346-ba7c-84a5b054a994",
+      "name": "KCARC",
+      "frequency": "147.330",
+      "mode": "FM",
+      "notes": "107.2",
+      "startUtc": "02:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-f83adcbe-bb51-45f8-a651-1b4b7f4f7af7",
+      "name": "WC Simplex",
+      "frequency": "146.430",
+      "mode": "FM",
+      "notes": "",
+      "startUtc": "23:30",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          2,
+          5
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-06f9858c-8123-474a-b15f-bd7f1c9ea32c",
+      "name": "Winlink Wednesday ICS-213",
+      "frequency": "",
+      "mode": "Digital",
+      "notes": "Subject: Winlink Wednesday Check-In\nMessage body: call sign, first name, city or town, county, state (HF or VHF, etc.)\n\nhttps://winlinkwednesday.net/reminder.html\n",
+      "startUtc": "00:00",
+      "durationMinutes": 1440,
+      "recurrence": {
+        "type": "monthly",
+        "ordinal": 3,
+        "weekday": 3
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-a11e63ca-e4bc-4459-bad9-b28358c3d00a",
+      "name": "Winlink Wednesday Basic Plus Weather",
+      "frequency": "",
+      "mode": "Digital",
+      "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)\nWeather Snapshot on 2nd line",
+      "startUtc": "00:00",
+      "durationMinutes": 1440,
+      "recurrence": {
+        "type": "monthly",
+        "ordinal": 1,
+        "weekday": 3
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-f93371eb-87dc-4cc9-9422-508c2d14e863",
+      "name": "Winlink Wednesday - Basic",
+      "frequency": "",
+      "mode": "Digital",
+      "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
+      "startUtc": "00:00",
+      "durationMinutes": 1440,
+      "recurrence": {
+        "type": "monthly",
+        "ordinal": 2,
+        "weekday": 3
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-c9de1a70-c7be-4bf9-9b81-a002907223e6",
+      "name": "Winlink Wednesday Basic",
+      "frequency": "",
+      "mode": "Digital",
+      "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
+      "startUtc": "00:00",
+      "durationMinutes": 1440,
+      "recurrence": {
+        "type": "monthly",
+        "ordinal": 4,
+        "weekday": 3
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-98a25ed2-914e-4e01-91ed-ca96e8aa6e7a",
+      "name": "Winlink Wednesday - Basic",
+      "frequency": "",
+      "mode": "Digital",
+      "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
+      "startUtc": "00:00",
+      "durationMinutes": 1440,
+      "recurrence": {
+        "type": "monthly",
+        "ordinal": 5,
+        "weekday": 3
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-ef59a182-39ab-4089-9a5f-bb614228f0fa",
+      "name": "Simpson County Net",
+      "frequency": "147.135+",
+      "mode": "FM",
+      "notes": "PL136.5",
+      "startUtc": "00:00",
+      "durationMinutes": 30,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          3
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-4e8cb82c-9a98-49a5-924b-20ec41df702a",
+      "name": "ARES Simpson County",
+      "frequency": "442.200",
+      "mode": "FM",
+      "notes": "PL77.0",
+      "startUtc": "00:30",
+      "durationMinutes": 30,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          2
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-a0617f5f-302a-4173-9b73-50ed0bcc39cd",
+      "name": "Heart Healthcare Coalition",
+      "frequency": "147.330",
+      "mode": "FM",
+      "notes": "",
+      "startUtc": "13:30",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "monthly",
+        "ordinal": 1,
+        "weekday": 2
+      },
+      "enabled": true
+    }
+  ]
+}
