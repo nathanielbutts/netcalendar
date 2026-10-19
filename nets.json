@@ -76,7 +76,7 @@
     {
       "id": "net-06f9858c-8123-474a-b15f-bd7f1c9ea32c",
       "name": "Winlink Wednesday ICS-213",
-      "frequency": "",
+      "frequency": "KN4LQN",
       "mode": "Digital",
       "notes": "Subject: Winlink Wednesday Check-In\nMessage body: call sign, first name, city or town, county, state (HF or VHF, etc.)\n\nhttps://winlinkwednesday.net/reminder.html\n",
       "startUtc": "00:00",
@@ -192,6 +192,86 @@
         "type": "monthly",
         "ordinal": 1,
         "weekday": 2
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-b086ca95a5c6",
+      "name": "WCKY ARES",
+      "frequency": "147.165",
+      "mode": "FM",
+      "notes": "",
+      "startUtc": "00:30",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          4
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-ea917117eb93",
+      "name": "WC 10m Net",
+      "frequency": "28.460",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "01:00",
+      "durationMinutes": 30,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          1
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-9aaca98ba989",
+      "name": "FL Winlink Net",
+      "frequency": "W4AKH",
+      "mode": "Digital",
+      "notes": "TO: W4AKH \nSUBJECT LINE: FL WL NET, first name, city, State** abbreviation, Mode (VARA HF, VARA FM , ARDOP, PACKET , telnet (spell correctly)  etc,\nOptional in Subject line ( 80 characters MAX):\nEmergency Power types: BAT, GEN,SOL ) BAT (Battery) , GEN (generator charging, or use), GRID , SOL (Solar charging battery) \nHow sent : P2P (if p2p)  RMS station and path -  RO (if Radio Only)  or spell out RADIO ONLY.\n*ARRL Field Days:  add in  FD*   or  WFD*  include asterist.\n**Countries can be spelled out - or we can use your call sign prefix (let us know if we miss your country)\nEXAMPLE SUBJECT LINE:  FL WL NET, RUTH, FT PIERCE,FL,VARA HF,P2P, RMS KG4ORQ, RO ,FD* or WFD*,Power type: BAT,GEN,SOL",
+      "startUtc": "00:00",
+      "durationMinutes": 1440,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          4
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-1637a849c4d0",
+      "name": "KY Winlink Net",
+      "frequency": "AF4Y",
+      "mode": "Digital",
+      "notes": "Standard Winlink Checkin format",
+      "startUtc": "00:00",
+      "durationMinutes": 1440,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          1
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-c8c571e7-d4b2-4b60-a6ee-6f7c9560e56b",
+      "name": "Monroe County",
+      "frequency": "146.775",
+      "mode": "FM",
+      "notes": "PL 151.4",
+      "startUtc": "01:30",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          0
+        ]
       },
       "enabled": true
     }
