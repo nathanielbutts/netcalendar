@@ -175,7 +175,7 @@
       "recurrence": {
         "type": "weekdays",
         "days": [
-          2
+          3
         ]
       },
       "enabled": true
@@ -271,6 +271,193 @@
         "type": "weekdays",
         "days": [
           0
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-88d669cc-66a3-4fde-aaf6-545a3476e59a",
+      "name": "9th Region Traffic Net",
+      "frequency": "3.555",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "00:45",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-760cb9e2-c267-42e0-a23b-9c088b4afb76",
+      "name": "9th Region NTS Net",
+      "frequency": "3.555",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "02:30",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-8ef82c9a-8624-49b2-b826-ff1240bec2ff",
+      "name": "9th Region Late Night",
+      "frequency": "7.280",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "06:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          1,
+          3,
+          5
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-9a9b8502-cf7d-4b99-ac8e-12834c34f445",
+      "name": "9th Region Inter State Traffic",
+      "frequency": "7.280",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "21:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-70a12701-6636-4a40-8a8d-4dd289de736a",
+      "name": "Central Area Net",
+      "frequency": "3.552, 7.052, 7108",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "02:30",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-7d3a2c82-d411-462d-8566-6965507a75e2",
+      "name": "Central Area Net",
+      "frequency": "14.345",
+      "mode": "SSB",
+      "notes": "Alternate Frequency is 7240 kHz at bottom of the hour or before. Alternate 40 meter frequency is 7.233.",
+      "startUtc": "20:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          1,
+          3,
+          5
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-b76abf57-bcb2-4df9-9951-f9941856a283",
+      "name": "Kentucky CW Net",
+      "frequency": "3.537",
+      "mode": "CW",
+      "notes": "",
+      "startUtc": "01:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-19678884-a7f5-4ccc-840b-4764ebf7be2c",
+      "name": "Woodpeckers Net",
+      "frequency": "7.242",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "12:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-94ff4455-246e-4abb-9726-42ba2d61e3d7",
+      "name": "Astronomy Hams Net",
+      "frequency": "3.845",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "02:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-3e95db15-2700-487b-9b96-ac785fb48024",
+      "name": "Coastal Carolina Emergency Net",
+      "frequency": "3.907",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "23:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-ab9cf878-06bc-4563-896f-e0627af2c754",
+      "name": "FISTS CW Club",
+      "frequency": "7.122",
+      "mode": "CW",
+      "notes": "• Core FISTS Frequencies: General FISTS activity and calling frequencies across bands include:\n\t• 80m: 1.808 MHz / 3.558 MHz\n\t• 40m: 7.028 MHz / 7.058 MHz\n\t• 20m: 14.058 MHz\n\t• 15m: 21.058 MHz (and 21.158 MHz Novice segment)",
+      "startUtc": "00:00",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "daily"
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-a458eddf-390b-4ac0-b479-1a770349fdaf",
+      "name": "Salvation Army Team Emergency Radio Network",
+      "frequency": "14.325",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "15:30",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          1,
+          3,
+          5
+        ]
+      },
+      "enabled": true
+    },
+    {
+      "id": "net-b3da1c0d-0287-42be-9bd2-9af1220ca3d7",
+      "name": "Salvation Army Team Emergency Radio Network (SATERN)",
+      "frequency": "14.320",
+      "mode": "SSB",
+      "notes": "",
+      "startUtc": "15:30",
+      "durationMinutes": 60,
+      "recurrence": {
+        "type": "weekdays",
+        "days": [
+          6
         ]
       },
       "enabled": true
