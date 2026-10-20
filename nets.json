@@ -62,7 +62,7 @@
       "frequency": "146.430",
       "mode": "FM",
       "notes": "",
-      "startUtc": "24:30",
+      "startUtc": "00:30",
       "durationMinutes": 60,
       "recurrence": {
         "type": "weekdays",
