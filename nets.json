@@ -84,7 +84,7 @@
       "recurrence": {
         "type": "monthly",
         "ordinal": 3,
-        "weekday": 3
+        "weekday": 4
       },
       "enabled": true
     },
@@ -99,7 +99,7 @@
       "recurrence": {
         "type": "monthly",
         "ordinal": 1,
-        "weekday": 3
+        "weekday": 4
       },
       "enabled": true
     },
@@ -114,7 +114,7 @@
       "recurrence": {
         "type": "monthly",
         "ordinal": 2,
-        "weekday": 3
+        "weekday": 4
       },
       "enabled": true
     },
@@ -129,7 +129,7 @@
       "recurrence": {
         "type": "monthly",
         "ordinal": 4,
-        "weekday": 3
+        "weekday": 4
       },
       "enabled": true
     },
@@ -144,7 +144,7 @@
       "recurrence": {
         "type": "monthly",
         "ordinal": 5,
-        "weekday": 3
+        "weekday": 4
       },
       "enabled": true
     },
@@ -159,7 +159,7 @@
       "recurrence": {
         "type": "weekdays",
         "days": [
-          3
+          4
         ]
       },
       "enabled": true
@@ -175,7 +175,7 @@
       "recurrence": {
         "type": "weekdays",
         "days": [
-          3
+          4
         ]
       },
       "enabled": true
@@ -206,7 +206,7 @@
       "recurrence": {
         "type": "weekdays",
         "days": [
-          4
+          5
         ]
       },
       "enabled": true
@@ -238,7 +238,7 @@
       "recurrence": {
         "type": "weekdays",
         "days": [
-          4
+          5
         ]
       },
       "enabled": true
@@ -254,7 +254,7 @@
       "recurrence": {
         "type": "weekdays",
         "days": [
-          1
+          2
         ]
       },
       "enabled": true
