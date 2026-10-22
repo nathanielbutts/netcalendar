@@ -84,7 +84,7 @@
       "recurrence": {
         "type": "monthly",
         "ordinal": 3,
-        "weekday": 4
+        "weekday": 3
       },
       "enabled": true
     },
