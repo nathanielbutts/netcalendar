@@ -84,7 +84,7 @@
       "recurrence": {
         "type": "monthly",
         "ordinal": 3,
-        "weekday": 3
+        "weekday": 2
       },
       "enabled": true
     },
@@ -94,12 +94,12 @@
       "frequency": "",
       "mode": "Digital",
       "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)\nWeather Snapshot on 2nd line",
-      "startUtc": "00:00",
+      "startUtc": "12:00",
       "durationMinutes": 1440,
       "recurrence": {
         "type": "monthly",
         "ordinal": 1,
-        "weekday": 4
+        "weekday": 2
       },
       "enabled": true
     },
@@ -109,12 +109,12 @@
       "frequency": "",
       "mode": "Digital",
       "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
-      "startUtc": "00:00",
+      "startUtc": "12:00",
       "durationMinutes": 1440,
       "recurrence": {
         "type": "monthly",
         "ordinal": 2,
-        "weekday": 4
+        "weekday": 2
       },
       "enabled": true
     },
@@ -124,12 +124,12 @@
       "frequency": "",
       "mode": "Digital",
       "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
-      "startUtc": "00:00",
+      "startUtc": "12:00",
       "durationMinutes": 1440,
       "recurrence": {
         "type": "monthly",
         "ordinal": 4,
-        "weekday": 4
+        "weekday": 2
       },
       "enabled": true
     },
@@ -139,12 +139,12 @@
       "frequency": "",
       "mode": "Digital",
       "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
-      "startUtc": "00:00",
+      "startUtc": "12:00",
       "durationMinutes": 1440,
       "recurrence": {
         "type": "monthly",
         "ordinal": 5,
-        "weekday": 4
+        "weekday": 2
       },
       "enabled": true
     },
