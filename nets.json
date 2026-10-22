@@ -134,21 +134,6 @@
       "enabled": true
     },
     {
-      "id": "net-98a25ed2-914e-4e01-91ed-ca96e8aa6e7a",
-      "name": "Winlink Wednesday - Basic",
-      "frequency": "",
-      "mode": "Digital",
-      "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
-      "startUtc": "12:00",
-      "durationMinutes": 1440,
-      "recurrence": {
-        "type": "monthly",
-        "ordinal": 5,
-        "weekday": 2
-      },
-      "enabled": true
-    },
-    {
       "id": "net-ef59a182-39ab-4089-9a5f-bb614228f0fa",
       "name": "Simpson County Net",
       "frequency": "147.135+",
