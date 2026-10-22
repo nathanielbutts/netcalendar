@@ -79,7 +79,7 @@
       "frequency": "KN4LQN",
       "mode": "Digital",
       "notes": "Subject: Winlink Wednesday Check-In\nMessage body: call sign, first name, city or town, county, state (HF or VHF, etc.)\n\nhttps://winlinkwednesday.net/reminder.html\n",
-      "startUtc": "00:00",
+      "startUtc": "12:00",
       "durationMinutes": 1440,
       "recurrence": {
         "type": "monthly",
