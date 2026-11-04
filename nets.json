@@ -94,12 +94,12 @@
       "frequency": "",
       "mode": "Digital",
       "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)\nWeather Snapshot on 2nd line",
-      "startUtc": "12:00",
+      "startUtc": "13:00",
       "durationMinutes": 1440,
       "recurrence": {
         "type": "monthly",
         "ordinal": 1,
-        "weekday": 2
+        "weekday": 3
       },
       "enabled": true
     },
@@ -109,12 +109,12 @@
       "frequency": "",
       "mode": "Digital",
       "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
-      "startUtc": "12:00",
+      "startUtc": "13:00",
       "durationMinutes": 1440,
       "recurrence": {
         "type": "monthly",
         "ordinal": 2,
-        "weekday": 2
+        "weekday": 3
       },
       "enabled": true
     },
@@ -124,12 +124,12 @@
       "frequency": "",
       "mode": "Digital",
       "notes": "To: KN4LQN\nSubject: Winlink Wednesday Check-In\nMessage body:\ncall sign, first name, city or town, county, state (HF or VHF, etc.)\nStandard check-in message body example:\nKW6GB, Greg, Front Royal, Warren, VA (HF)",
-      "startUtc": "12:00",
+      "startUtc": "13:00",
       "durationMinutes": 1440,
       "recurrence": {
         "type": "monthly",
         "ordinal": 4,
-        "weekday": 2
+        "weekday": 3
       },
       "enabled": true
     },
